@@ -6,128 +6,101 @@
 
 ## 🚀 About Me
 
-* 📍 Based in India
-* 📊 Passionate about **Data Analytics & Visualization**
-* 🧠 Strong interest in **SQL, Excel, and Data-driven decision making**
-* 🎯 Goal: To become a **Professional Data Analyst**
+* 📍 India
+* 📊 Focused on **Data Analytics & Visualization**
+* 🧠 Skilled in **SQL, Excel, and Data Analysis**
+* 🎯 Working towards becoming a **Data Analyst**
 
 ---
 
-## 📈 My Journey
+## 🧠 Tech Stack
 
-* Started learning **programming & web development**
-* Built foundation in **HTML, CSS, JavaScript**
-* Learned **SQL for data querying and database management**
-* Worked on **Excel for data cleaning, dashboards, and analysis**
-* Completed a **Data Analytics Internship (4 Weeks)**
-* Developed projects like:
+### 💻 Languages & Tools
 
-  * 📊 Sales Forecasting System
-  * 📁 SQL Data Analysis
-  * 📉 Excel Dashboard Projects
-  * 🤖 Face Recognition System
-
----
-
-## 🛠️ Skills & Tools
-
-### 💻 Technical Skills
-
-* SQL (Joins, Queries, Data Retrieval)
-* Excel (Pivot Tables, Charts, Data Cleaning)
-* Java (Basics, Servlet Concepts)
-* HTML, CSS, JavaScript
-
-### 📊 Data Analytics Skills
-
-* Data Cleaning
-* Data Visualization
-* Basic Data Modeling
-* Reporting & Insights
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge\&logo=mysql)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge\&logo=microsoft-excel)
 
 ---
 
 ## 📂 Projects
 
+### 🔹 Face Recognition System 🤖
+
+* Real-time face detection & recognition system
+* Uses webcam input for identification
+* Applied in attendance & security systems
+
+**Tech Stack:** Python, OpenCV, NumPy, ML Algorithms
+
+---
+
 ### 🔹 Sales Forecasting Application
 
-* Developed a system to analyze sales data
-* Designed system architecture, ER diagram, and use case
-* Focused on improving business decision-making
+* Analyzed sales data for predictions
+* Designed system architecture & ER diagram
+* Focused on business insights
 
 ---
 
 ### 🔹 SQL Data Analysis
 
-* Wrote queries to extract:
-
-  * Customer data
-  * Product sales
-  * Revenue insights
-* Used joins, filtering, grouping for analysis
+* Extracted customer & sales insights
+* Used joins, filters, aggregation
 
 ---
 
 ### 🔹 Excel Dashboard
 
-* Built dashboards using:
-
-  * Charts
-  * Pivot Tables
-  * Data visualization techniques
-* Transformed raw data into actionable insights
-
----
-
-### 🔹 Face Recognition System 🤖
-
-* Developed a system to detect and recognize human faces in real-time
-* Implemented image processing and machine learning techniques
-* Enabled identification using webcam input
-* Designed for applications like **attendance systems and security**
-
-**Tech Stack:**
-
-* Python
-* OpenCV
-* NumPy
-* Machine Learning (Face Detection & Recognition Algorithms)
+* Built interactive dashboards
+* Used Pivot Tables, Charts
+* Converted raw data into insights
 
 ---
 
 ## 🧑‍💼 Internship Experience
 
-**Role:** Data Analytics Intern
-**Duration:** 4 Weeks
+**Data Analytics Intern (4 Weeks)**
 
-### Key Work:
-
-* Performed real-world data cleaning and analysis
-* Worked on project documentation and reporting
-* Generated insights for decision-making
+* Data cleaning & analysis
+* Reporting & documentation
+* Insight generation
 
 ---
 
 ## 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=ivaibhavpawar1045\&show_icons=true\&theme=tokyonight)
+
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
+
+![Streak](https://streak-stats.demolab.com?user=ivaibhavpawar1045\&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaibhavpawar1045\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn:  [www.linkedin.com/in/vaibhav-pawar1045](http://www.linkedin.com/in/vaibhav-pawar1045)
+* 💼 LinkedIn: [www.linkedin.com/in/vaibhav-pawar1045](http://www.linkedin.com/in/vaibhav-pawar1045)
 * 📧 Email: [vp104556@gmail.com](mailto:vp104556@gmail.com)
 
 ---
 
-## ⭐ Future Goals
+## ⭐ Goals
 
-* Master Data Analytics tools
-* Learn Power BI / Python deeply
+* Advance in Data Analytics
+* Learn Power BI & Python deeply
 * Work on real-world datasets
-* Become job-ready in analytics
+* Build strong portfolio
 
 ---
