@@ -19,7 +19,6 @@
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge\&logo=mysql)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge\&logo=microsoft-excel)
@@ -92,7 +91,7 @@
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: [www.linkedin.com/in/vaibhav-pawar1045](http://www.linkedin.com/in/vaibhav-pawar1045)
-* 📧 Email: [vp104556@gmail.com](mailto:vp104556@gmail.com)
+* 📧 Email: [vaibhavpawar1045@gmail.com](mailto:vaibhavpawar1045@gmail.com)
 
 ---
 
